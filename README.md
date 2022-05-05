@@ -1,1 +1,1 @@
-# Predicting-Customer-Churn
+In this study, a model has been developed using Machine Learning techniques which can predict the Customer Churn for Banking industries. The model is capable to forecast the churn analysing the historical data. Various analaysis are done using Tableau software and python data visualisation libraries- Seaborn and Matplotlib. 
